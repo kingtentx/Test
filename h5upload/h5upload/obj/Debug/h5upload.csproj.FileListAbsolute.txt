@@ -1,0 +1,6 @@
+e:\Documents\Visual Studio 2013\Projects\h5upload\h5upload\bin\h5upload.dll.config
+e:\Documents\Visual Studio 2013\Projects\h5upload\h5upload\bin\h5upload.dll
+e:\Documents\Visual Studio 2013\Projects\h5upload\h5upload\bin\h5upload.pdb
+e:\Documents\Visual Studio 2013\Projects\h5upload\h5upload\obj\Debug\h5upload.csprojResolveAssemblyReference.cache
+e:\Documents\Visual Studio 2013\Projects\h5upload\h5upload\obj\Debug\h5upload.dll
+e:\Documents\Visual Studio 2013\Projects\h5upload\h5upload\obj\Debug\h5upload.pdb
